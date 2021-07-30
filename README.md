@@ -8,7 +8,13 @@ c'est un site statique a pour but de me representer au clients , entreprises
 |:------------:|
 ![hero Section](./assets/img/screen.png)|
 
+|about section|
+|:------------:|
+![about section ](./assets/img/about.png)|
 
+|portfolio section|
+|:------------:|
+![about section ](./assets/img/portfolio.png)|
 
 ## Built With
 * [HTML]
